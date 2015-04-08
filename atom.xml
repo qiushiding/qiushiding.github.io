@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Shiding Qiu]]></title>
+  
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2015-04-06T11:03:34.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name><![CDATA[qiushiding]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[很快就到]]></title>
+    <link href="http://yoursite.com/2015/04/06/after-25/"/>
+    <id>http://yoursite.com/2015/04/06/after-25/</id>
+    <published>2015-04-06T10:37:48.000Z</published>
+    <updated>2015-04-06T11:03:34.000Z</updated>
+    <content type="html"><![CDATA[<p>那晚一起买域名,纠结要三年还是五年.</p>
+<p>他们说,买五年吧,很快就到的.</p>
+<p>好吧, 那就五年.</p>
+<p>那时我30岁,很快就到.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>那晚一起买域名,纠结要三年还是五年.</p>
+<p>他们说,买五年吧,很快就到的.</p>
+<p>好吧, 那就五年.</p>
+<p>那时我30岁,很快就到.</p>
+]]>
+    </summary>
+    
+  </entry>
+  
+</feed>

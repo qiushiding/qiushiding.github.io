@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2015-04-06T11:03:34.000Z</updated>
+  <updated>2015-04-08T15:37:58.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -13,6 +13,19 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[mac常用alias配置]]></title>
+    <link href="http://yoursite.com/2015/04/08/mac%E5%B8%B8%E7%94%A8alias%E9%85%8D%E7%BD%AE/"/>
+    <id>http://yoursite.com/2015/04/08/mac常用alias配置/</id>
+    <published>2015-04-08T15:34:54.000Z</published>
+    <updated>2015-04-08T15:37:58.000Z</updated>
+    <content type="html"></content>
+    <summary type="html">
+    
+    </summary>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[很快就到]]></title>
